@@ -1,0 +1,35 @@
+{
+    "name": "proto",
+    "displayName": "Protobuf support",
+    "description": "Protobuf support (.proto file syntax highlighting)",
+    "version": "0.0.1",
+    "publisher": "pj3677",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "proto",
+                "aliases": [
+                    "Protocol Buffers",
+                    "proto"
+                ],
+                "extensions": [
+                    ".proto"
+                ],
+                "configuration": "./proto.configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "proto",
+                "scopeName": "source.proto",
+                "path": "./syntaxes/proto.tmLanguage"
+            }
+        ]
+    }
+}

@@ -2,8 +2,22 @@
     "name": "proto",
     "displayName": "Protobuf support",
     "description": "Protobuf support (.proto file syntax highlighting)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "peterj",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "icon": "images/protobuficon.svg",
+    "galleryBanner": {
+        "color": "#5c2d91",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/pj3677/vscode-protobuf/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/pj3677/vscode-protobuf/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pj3677/vscode-protobuf"
+    },
     "engines": {
         "vscode": "^0.10.1"
     },

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#263237;}
+	.st1{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#263237;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E7E7E7;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#3A4E55;}
+	.st4{fill:#08AADA;}
+	.st5{fill:#2BB8EB;}
+	.st6{fill:#088CB9;}
+	.st7{fill:#069BC6;}
+	.st8{display:none;}
+	.st9{display:inline;fill:#3A4E55;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#00ACD2;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#26C2EE;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#D4EDF1;}
+	.st13{fill:#C0DBE0;}
+	.st14{fill:#D4EDF1;}</style>
+ <g>
+  <title>Layer 1</title>
+  <circle fill="black" class="st0" cx="60" cy="60" r="60" id="svg_1"/>
+  <text stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_2" y="71.531241" x="28.148439" stroke-width="0" fill="#ffffff"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_3" y="52.124992" x="61.054689" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">protobuf</text>
+  <text stroke="#d4aaff" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_5" y="81.65624" x="47.132812" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffff00">.proto</text>
+ </g>
+</svg>

@@ -3,7 +3,7 @@
     "displayName": "Protobuf support",
     "description": "Protobuf support (.proto file syntax highlighting)",
     "version": "0.0.1",
-    "publisher": "pj3677",
+    "publisher": "peterj",
     "engines": {
         "vscode": "^0.10.1"
     },

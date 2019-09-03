@@ -16,7 +16,7 @@
 			<key>match</key>
 			<string>\b(default|enum|extend|extensions|message|option|optional|package|rpc|repeated|required|returns|service)\b</string>
 			<key>name</key>
-			<string>keyword.operator.proto</string>
+			<string>keyword.proto</string>
 		</dict>
 		<dict>
 			<key>begin</key>

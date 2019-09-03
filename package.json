@@ -2,7 +2,7 @@
     "name": "proto",
     "displayName": "Protobuf support",
     "description": "Protobuf support (.proto file syntax highlighting)",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "peterj",
     "license": "SEE LICENSE IN LICENSE.md",
     "icon": "images/protobuficon.svg",

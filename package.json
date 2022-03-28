@@ -5,7 +5,7 @@
     "version": "0.0.3",
     "publisher": "peterj",
     "license": "SEE LICENSE IN LICENSE.md",
-    "icon": "images/protobuficon.svg",
+    "icon": "images/protobuficon.png",
     "galleryBanner": {
         "color": "#5c2d91",
         "theme": "dark"
@@ -45,5 +45,11 @@
                 "path": "./syntaxes/proto.tmLanguage"
             }
         ]
+    },
+    "devDependencies": {
+        "svgexport": "^0.4.2"
+    },
+    "scripts": {
+        "vscode:prepublish": "svgexport ./images/protobuficon.svg ./images/protobuficon.png"
     }
 }

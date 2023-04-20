@@ -1,0 +1,5 @@
+node_modules/
+images/protobuficon.png
+
+# Build Output
+*.vsix
